@@ -29,9 +29,6 @@ El objetivo de este proyecto es proporcionar un ejemplo básico de una página w
 
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, siéntete libre de crear una solicitud de extracción (pull request).
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ## Autor
 
